@@ -1,11 +1,9 @@
 ---
 name: contemplation-introduction
-description: Introduce contemplative prayer practice—the wordless, loving awareness
-  of God's presence. Based on Thomas Merton's teaching that contemplation is not technique
-  but gift, not achievement but surrender.
+description: Introduce contemplative prayer practice—the wordless, loving awareness of God's presence. Based on Thomas Merton's teaching that contemplation is not technique but gift, not achievement but surrender.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - contemplation-introduction
@@ -157,4 +155,3 @@ Thomas Merton - `experts/thomas-merton/`
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
