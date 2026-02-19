@@ -4,7 +4,7 @@ description: Introduce contemplative prayer practice—the wordless, loving awar
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3671
+  version: 1.0.3672
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - contemplation-introduction
